@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261478223398",
+    "project_id": "project-management-87a8c",
+    "storage_bucket": "project-management-87a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261478223398:android:255701d654d9e88e12a0e7",
+        "android_client_info": {
+          "package_name": "com.nandar.project_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261478223398-sa6i5ba09uk4nt70sf012gi61qu54ijq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0PrJ_saYKsnV7ztb9wrXsULn-dcT254"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261478223398-sa6i5ba09uk4nt70sf012gi61qu54ijq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
